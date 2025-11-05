@@ -100,4 +100,4 @@ Open your web browser and navigate to the local URL provided by Streamlit (usual
 *   **LLM**: Google Gemini 2.5 Flash
 *   **Frontend**: Streamlit
 *   **Database**: SQLite
-*   **Tools**: DuckDuckGo Search, AlphaVantage API
+*   **Tools**: DuckDuckGo Search, AlphaVantage API,Calculator
